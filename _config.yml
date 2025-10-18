@@ -1,0 +1,33 @@
+# Jekyll Configuration for PhD Advice Hub
+title: PhD Advice Hub
+description: A directory and advice resource for PhD students
+url: "https://stogiannidis.github.io"
+baseurl: "/phd-advice-hub"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Collections for organizing content
+collections:
+  advice:
+    output: true
+    permalink: /advice/:path/
+  resources:
+    output: true
+    permalink: /resources/:path/
+
+# Navigation
+header_pages:
+  - index.md
+  - advice.md
+  - resources.md
+  - about.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
+  - README.md
