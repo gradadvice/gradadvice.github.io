@@ -20,9 +20,9 @@ Insights and tips shared by current PhD students and recent graduates who have n
 
 ## Getting Started
 
-- Browse our [Advice](/phd-advice-hub/advice/) section for guidance on specific topics
-- Check out the [Resources](/phd-advice-hub/resources/) directory for helpful tools and materials
-- Learn more [About](/phd-advice-hub/about/) this project and how to contribute
+- Browse our [Advice]({{ "/advice/" | relative_url }}) section for guidance on specific topics
+- Check out the [Resources]({{ "/resources/" | relative_url }}) directory for helpful tools and materials
+- Learn more [About]({{ "/about/" | relative_url }}) this project and how to contribute
 
 ---
 
