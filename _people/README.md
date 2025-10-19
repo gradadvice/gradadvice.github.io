@@ -59,9 +59,14 @@ List your key publications if you'd like to share them.
 
 Include your contact information and social media links here.
 
-- **Email:** your.email@example.com
-- **Website:** [yourwebsite.com](https://yourwebsite.com)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+<div class="contact-info">
+  <a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i> your.email@example.com</a>
+  <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i> yourwebsite.com</a>
+  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> @yourhandle</a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> linkedin.com/in/yourprofile</a>
+  <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> github.com/yourusername</a>
+  <a href="https://orcid.org/0000-0000-0000-0000" target="_blank" rel="noopener noreferrer"><i class="fab fa-orcid"></i> ORCID: 0000-0000-0000-0000</a>
+</div>
 ```
 
 ## Required Fields

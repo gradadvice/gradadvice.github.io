@@ -6,37 +6,32 @@ permalink: /people/
 
 # People Directory
 
-Connect with PhD students, researchers, and academics from around the world. Browse profiles to find people in your field, potential collaborators, or mentors.
-
-## All Profiles
-
 {% for person in site.people %}
-<div class="person-card" style="margin-bottom: 2em; padding: 1em; border-left: 3px solid #828282;">
-  <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
-  <p><strong>{{ person.position }}</strong> | {{ person.institution }}</p>
-  <p>{{ person.excerpt }}</p>
+<div class="person-card-minimal">
+  <div class="person-info">
+    <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
+    <p class="person-meta">{{ person.position }} · {{ person.institution }}</p>
+  </div>
   
   {% if person.email or person.website or person.twitter or person.linkedin or person.github %}
-  <p style="margin-top: 0.5em;">
+  <div class="social-links-minimal">
     {% if person.email %}
-    <a href="mailto:{{ person.email }}" title="Email">📧</a> 
+    <a href="mailto:{{ person.email }}" title="Email" class="social-icon email"><i class="fas fa-envelope"></i></a>
     {% endif %}
     {% if person.website %}
-    <a href="{{ person.website }}" target="_blank" title="Website">🌐</a> 
+    <a href="{{ person.website }}" target="_blank" rel="noopener noreferrer" title="Website" class="social-icon website"><i class="fas fa-globe"></i></a>
     {% endif %}
     {% if person.twitter %}
-    <a href="https://twitter.com/{{ person.twitter }}" target="_blank" title="Twitter">🐦</a> 
+    <a href="https://twitter.com/{{ person.twitter }}" target="_blank" rel="noopener noreferrer" title="Twitter" class="social-icon twitter"><i class="fab fa-twitter"></i></a>
     {% endif %}
     {% if person.linkedin %}
-    <a href="{{ person.linkedin }}" target="_blank" title="LinkedIn">💼</a> 
+    <a href="{{ person.linkedin }}" target="_blank" rel="noopener noreferrer" title="LinkedIn" class="social-icon linkedin"><i class="fab fa-linkedin"></i></a>
     {% endif %}
     {% if person.github %}
-    <a href="https://github.com/{{ person.github }}" target="_blank" title="GitHub">💻</a> 
+    <a href="https://github.com/{{ person.github }}" target="_blank" rel="noopener noreferrer" title="GitHub" class="social-icon github"><i class="fab fa-github"></i></a>
     {% endif %}
-  </p>
+  </div>
   {% endif %}
 </div>
 {% endfor %}
-
----
 

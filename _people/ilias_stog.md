@@ -54,7 +54,8 @@ Alex is working on:
 
 I'm interested in connecting with other researchers working on climate change, ecology, and conservation. Feel free to reach out!
 
-- **Email:** i.stogiannidis@ed.ac.uk
-- **Twitter:** [@iliasstogiannidis](https://twitter.com/iliasstogiannidis)
-- **LinkedIn:** [linkedin.com/in/iliasstogiannidis](https://linkedin.com/in/iliasstogiannidis)
-- **ResearchGate:** [researchgate.net/profile/Ilias-Stogiannidis](https://researchgate.net/profile/Ilias-Stogiannidis)
+<div class="contact-info">
+  <a href="mailto:i.stogiannidis@ed.ac.uk"><i class="fas fa-envelope"></i> i.stogiannidis@ed.ac.uk</a>
+  <a href="https://twitter.com/istogiannidis" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> @istogiannidis</a>
+  <a href="https://www.linkedin.com/in/stogiannidis/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> linkedin.com/in/stogiannidis</a>
+</div>
