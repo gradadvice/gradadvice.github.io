@@ -5,25 +5,25 @@ title: Home
 
 # Welcome to PhD Advice Hub
 
-PhD Advice Hub is a comprehensive directory and resource platform designed to support PhD students throughout their doctoral journey. Whether you're just starting your PhD or in the final stages of writing your dissertation, you'll find valuable advice, resources, and guidance here.
+PhD Advice Hub is a comprehensive directory platform designed to connect PhD students, researchers, and academics. Discover and connect with people in your field, learn about their research, and build your academic network.
 
 ## What You'll Find Here
 
-### 📚 Advice & Guidance
-Practical advice on various aspects of PhD life, from choosing an advisor to managing your research and balancing work-life commitments.
+### � People Directory
+Browse profiles of PhD students, researchers, and academics from various fields. Each profile includes contact information, a short bio, research interests, and social media links.
 
-### 🔗 Resources Directory
-A curated collection of tools, websites, books, and other resources that can help you succeed in your PhD program.
+### 🌐 Connect & Collaborate
+Find potential collaborators, mentors, or peers working on similar research topics. Connect through various channels including email, LinkedIn, Twitter, and more.
 
-### 🎓 Community Knowledge
-Insights and tips shared by current PhD students and recent graduates who have navigated the challenges of doctoral research.
+### 🎓 Community Network
+Build meaningful connections within the academic community. Whether you're looking for research partners, seeking advice, or wanting to share your expertise, our people directory helps you connect.
 
 ## Getting Started
 
-- Browse our [Advice]({{ "/advice/" | relative_url }}) section for guidance on specific topics
-- Check out the [Resources]({{ "/resources/" | relative_url }}) directory for helpful tools and materials
-- Learn more [About]({{ "/about/" | relative_url }}) this project and how to contribute
+- Browse our [People]({{ "/people/" | relative_url }}) directory to discover researchers and academics
+- Learn more [About]({{ "/about/" | relative_url }}) this project and how to contribute your profile
+- Connect with people whose research interests align with yours
 
 ---
 
-*This is a community-driven project. We welcome contributions and suggestions to make this resource even better!*
+*This is a community-driven project. Add your profile to help build a stronger academic network!*
