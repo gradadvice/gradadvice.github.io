@@ -24,46 +24,41 @@ image: /assets/images/people/ilias_stog.png
 
 ## Bio
 
-Ilias is a second-year PhD student in Computer Vision and Machine Learning at The University of Edinburgh. His research focuses on developing innovative algorithms for image recognition and analysis.
+My name is Ilias (pronounced "ee-lee-ahs" or "ee-ly-ahs"), and I'm a second-year PhD student at The University of Edinburgh. I'm part of the Vios Science Lab under the guidance of Prof. Sotirios Tsaftaris and Dr. Steven McDonagh.
 
-With a background in marine biology and ecology, Ilias brings both field research experience and data analysis skills to his work. He is committed to science communication and regularly engages with local communities about environmental issues.
+Before embarking on my PhD, I completed my MSc in Computer Science at Athens University of Economics and Business (AUEB), supervised by Prof. Ion Androutsopoulos. I also worked as an Applied Machine Learning Researcher at helvia.ai, specialising in Natural Language Processing and Large Language Models.
+
+I'm an active member of the NLP Group at AUEB, where we conduct research in NLP and Machine Learning.
 
 ## Research Interests
 
-- Climate Change Biology
-- Coastal Ecosystem Conservation
-- Marine Ecology
-- Environmental Policy
-- Science Communication
-
-## Current Projects
-
-Alex is working on:
-- Assessing the impact of sea level rise on coastal wetland biodiversity
-- Developing community-based conservation strategies for vulnerable ecosystems
-- Creating educational materials about climate change for local schools
+- Spatial and temporal reasoning in Foundation Models
+- Multimodal learning
+- Efficient models
+- Intersection of Computer Vision, Natural Language Processing, and Robotics
 
 ## Education
 
-- **M.S. in Computer Science**, Athens University of Economics and Business (2023)
-- **B.S. in Computer Science**, Athens University of Economics and Business (2022)
+- **PhD in Computer Vision and Machine Learning**, The University of Edinburgh (2023–present)
+- **MSc in Computer Science**, Athens University of Economics and Business (2023)
+- **BSc in Computer Science**, Athens University of Economics and Business (2022)
 
-## Conference Presentations
+## Professional Experience
 
-- Stogiannidis, I., & Martinez, L. (2024). "Climate Change Impacts on Coastal Wetlands: A Case Study." Poster presented at the International Conference on Environmental Science, Boston, MA.
-- Stogiannidis, I. (2023). "Community Engagement in Conservation Research." Talk presented at the Young Researchers Forum, San Francisco, CA.
+- **Applied Machine Learning Researcher**, helvia.ai
+  - Specialised in Natural Language Processing and Large Language Models
 
-## Skills & Techniques
+## Skills & Expertise
 
-- Field ecology and sampling
-- GIS and spatial analysis
-- R and Python for data analysis
-- Science writing and communication
-- Stakeholder engagement
+- Computer Vision
+- Natural Language Processing
+- Foundation Models
+- Multimodal Learning
+- Python and Machine Learning frameworks
 
 ## Contact
 
-I'm interested in connecting with other researchers working on climate change, ecology, and conservation. Feel free to reach out!
+I'm interested in connecting with other researchers working on Computer Vision, NLP, and Foundation Models. Feel free to reach out!
 
 <div class="contact-info">
   <a href="mailto:i.stogiannidis@ed.ac.uk"><i class="fas fa-envelope"></i> i.stogiannidis@ed.ac.uk</a>
