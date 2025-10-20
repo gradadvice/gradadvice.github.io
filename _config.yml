@@ -1,7 +1,7 @@
 # Jekyll Configuration for PhD Advice Hub
 title: PhD Advice Hub for Greeks
 description: A website that aims to connect prospective and current Greek PhD students with valuable advice, resources, and a community of researchers.
-url: "https://stogiannidis.github.io"
+url: "https://gradadvice.github.io"
 baseurl: "/phd-advice-hub"
 
 # Build settings
