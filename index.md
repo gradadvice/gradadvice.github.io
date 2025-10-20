@@ -5,15 +5,13 @@ title: Home
 
 # Welcome to PhD Advice Hub
 
-PhD Advice Hub is a comprehensive directory platform designed to connect PhD students, researchers, and academics. Discover and connect with people in your field, learn about their research, and build your academic network.
+PhD Advice Hub is a community platform that bridges the gap between prospective Greek MSc and PhD students and those already pursuing their degrees abroad. We create a space where Greek students can connect with peers in their field, exchange advice, and learn from shared experiences.
 
 ## What You'll Find Here
 
-### � People Directory
-Browse profiles of PhD students, researchers, and academics from various fields. Each profile includes contact information, a short bio, research interests, and social media links.
+### 👤 People Directory
+Browse profiles of PhD students from various fields. Each profile includes contact information, a short bio, research interests, and social media links.
 
-### 🌐 Connect & Collaborate
-Find potential collaborators, mentors, or peers working on similar research topics. Connect through various channels including email, LinkedIn, Twitter, and more.
 
 ### 🎓 Community Network
 Build meaningful connections within the academic community. Whether you're looking for research partners, seeking advice, or wanting to share your expertise, our people directory helps you connect.

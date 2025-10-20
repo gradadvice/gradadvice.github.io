@@ -6,24 +6,22 @@ permalink: /about/
 
 # About PhD Advice Hub
 
-PhD Advice Hub is a community-driven project aimed at connecting PhD students, researchers, and academics worldwide. The goal is to create a comprehensive directory of people in academia, making it easier to discover collaborators, mentors, and peers in your field.
+This hub is a community-driven project connecting prospective Greek MSc and PhD students with compatriots already studying abroad. It's still a work in progress, but our goal is to create a comprehensive directory where students can find peers in their field, seek guidance, and share insights about the postgraduate journey.
 
 ## Mission
 
 Our mission is to:
-- Connect PhD students and researchers across disciplines
-- Facilitate collaboration and knowledge sharing
-- Build a supportive academic community
-- Make it easier to find people with similar research interests
-- Help students and researchers feel less isolated in their academic journey
+- Connect Greek MSc and PhD students across disciplines and institutions
+- Provide a platform for sharing advice, experiences, and resources
+- Foster a supportive academic community within the Greek diaspora
+- Help prospective students make informed decisions about studying abroad
 
 ## How to Add Your Profile
 
 This is an open-source project hosted on GitHub. We welcome profiles from:
-- Current PhD students
+- Current MSc and PhD students studying abroad
 - Postdoctoral researchers
-- Faculty and professors
-- Academic professionals
+- Any Greek academic willing to share their experience/help
 
 To add your profile:
 1. Visit our [GitHub repository](https://github.com/stogiannidis/phd-advice-hub)
@@ -31,14 +29,16 @@ To add your profile:
 3. Create a new file in the `_people` directory with your information
 4. Submit a pull request
 
+Alternatively, send me an email at [i.stogiannidis@ed.ac.uk](mailto:i.stogiannidis@ed.ac.uk) with your details and I can add it for you.
+
 ## Technology
 
 This website is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/), making it easy for anyone to contribute and maintain.
 
 ## Contact
 
-Have questions or suggestions? Feel free to open an issue on our GitHub repository or reach out to the maintainers.
+Have questions or suggestions? Feel free to open an issue on our GitHub repository or reach out via email.
 
 ---
 
-*Together, we can make the PhD journey a little bit easier for everyone.*
+*Together, we can make the postgraduate journey a little easier for everyone.*
