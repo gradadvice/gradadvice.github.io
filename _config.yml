@@ -1,6 +1,6 @@
 # Jekyll Configuration for PhD Advice Hub
-title: PhD Advice Hub
-description: A directory and advice resource for PhD students
+title: PhD Advice Hub for Greeks
+description: A website that aims to connect prospective and current Greek PhD students with valuable advice, resources, and a community of researchers.
 url: "https://stogiannidis.github.io"
 baseurl: "/phd-advice-hub"
 
@@ -10,19 +10,15 @@ theme: minima
 
 # Collections for organizing content
 collections:
-  advice:
+  people:
     output: true
-    permalink: /advice/:path/
-  resources:
-    output: true
-    permalink: /resources/:path/
+    permalink: /people/:title/
 
 # Navigation
 header_pages:
   - index.md
-  - advice.md
-  - resources.md
   - about.md
+  - people.md
 
 # Exclude from processing
 exclude:
@@ -31,3 +27,10 @@ exclude:
   - vendor/
   - .bundle/
   - README.md
+  - PROFILE_IMAGES_GUIDE.md
+  - _site/
+  - .sass-cache/
+  - .jekyll-cache/
+  - .jekyll-metadata
+  - node_modules/
+  - .DS_Store

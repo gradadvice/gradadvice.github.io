@@ -6,28 +6,29 @@ permalink: /about/
 
 # About PhD Advice Hub
 
-PhD Advice Hub is a community-driven project aimed at providing a centralized resource for PhD students worldwide. The goal is to create a comprehensive directory of advice, resources, and guidance to help doctoral students navigate the challenges and opportunities of their PhD journey.
+PhD Advice Hub is a community-driven project aimed at connecting PhD students, researchers, and academics worldwide. The goal is to create a comprehensive directory of people in academia, making it easier to discover collaborators, mentors, and peers in your field.
 
 ## Mission
 
 Our mission is to:
-- Provide accessible, practical advice for PhD students at all stages
-- Curate high-quality resources that support doctoral research
-- Build a supportive community where knowledge and experiences are shared
-- Help PhD students feel less isolated in their academic journey
+- Connect PhD students and researchers across disciplines
+- Facilitate collaboration and knowledge sharing
+- Build a supportive academic community
+- Make it easier to find people with similar research interests
+- Help students and researchers feel less isolated in their academic journey
 
-## How to Contribute
+## How to Add Your Profile
 
-This is an open-source project hosted on GitHub. We welcome contributions from:
+This is an open-source project hosted on GitHub. We welcome profiles from:
 - Current PhD students
-- Recent PhD graduates
-- Advisors and mentors
-- Anyone with valuable insights to share
+- Postdoctoral researchers
+- Faculty and professors
+- Academic professionals
 
-To contribute:
+To add your profile:
 1. Visit our [GitHub repository](https://github.com/stogiannidis/phd-advice-hub)
 2. Fork the repository
-3. Add your advice or resources
+3. Create a new file in the `_people` directory with your information
 4. Submit a pull request
 
 ## Technology
