@@ -8,7 +8,7 @@ field: Computer Vision and Machine Learning
 email: i.stogiannidis@ed.ac.uk
 twitter: istogiannidis
 linkedin: https://www.linkedin.com/in/stogiannidis/
-image: /assets/images/people/ilias_stog.png
+image: /assets/images/people/Ilias_stog.png
 ---
 
 <div class="profile-header">
