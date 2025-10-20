@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Ilias Stogiannidis
 name: Ilias Stogiannidis
 position: PhD Student (Year 2)
 institution: The University of Edinburgh
@@ -7,9 +8,19 @@ field: Computer Vision and Machine Learning
 email: i.stogiannidis@ed.ac.uk
 twitter: istogiannidis
 linkedin: https://www.linkedin.com/in/stogiannidis/
+image: /assets/images/people/ilias_stog.png
 ---
 
-# Ilias Stogiannidis
+<div class="profile-header">
+  {% if page.image %}
+  <img src="{{ page.image | relative_url }}" alt="{{ page.name }}" class="profile-image">
+  {% endif %}
+  <div class="profile-header-text">
+    <h1>{{ page.name }}</h1>
+    <p class="profile-position">{{ page.position }}</p>
+    <p class="profile-institution">{{ page.institution }}</p>
+  </div>
+</div>
 
 ## Bio
 

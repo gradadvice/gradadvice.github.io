@@ -7,7 +7,13 @@ permalink: /people/
 # People Directory
 
 {% for person in site.people %}
+{% unless person.path contains 'README' %}
 <div class="person-card-minimal">
+  {% if person.image %}
+  <div class="person-avatar">
+    <img src="{{ person.image | relative_url }}" alt="{{ person.name }}">
+  </div>
+  {% endif %}
   <div class="person-info">
     <h3><a href="{{ person.url | relative_url }}">{{ person.name }}</a></h3>
     <p class="person-meta">{{ person.position }} · {{ person.institution }}</p>
@@ -33,5 +39,6 @@ permalink: /people/
   </div>
   {% endif %}
 </div>
+{% endunless %}
 {% endfor %}
 
