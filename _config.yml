@@ -2,7 +2,7 @@
 title: PhD Advice Hub for Greeks
 description: A website that aims to connect prospective and current Greek PhD students with valuable advice, resources, and a community of researchers.
 url: "https://gradadvice.github.io"
-baseurl: "/phd-advice-hub"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
