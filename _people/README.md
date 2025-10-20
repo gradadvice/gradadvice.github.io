@@ -12,11 +12,12 @@ Thank you for your interest in adding your profile to the PhD Advice Hub People 
 
 ## Profile Template
 
-Create a new file in the `_people/` directory with the following format:
+Create a new file in the `_people/` directory with the following format (or copy `_TEMPLATE.md` as a starting point):
 
 ```markdown
 ---
 layout: page
+title: Your Full Name
 name: Your Full Name
 position: Your Current Position (e.g., PhD Candidate, Postdoctoral Researcher)
 institution: Your Institution
@@ -28,7 +29,19 @@ linkedin: https://linkedin.com/in/yourprofile (optional)
 github: yourgithubusername (optional)
 orcid: 0000-0000-0000-0000 (optional)
 researchgate: https://researchgate.net/profile/yourprofile (optional)
+image: /assets/images/people/your_filename.jpg (optional)
 ---
+
+<div class="profile-header">
+  {% if page.image %}
+  <img src="{{ page.image | relative_url }}" alt="{{ page.name }}" class="profile-image">
+  {% endif %}
+  <div class="profile-header-text">
+    <h1>{{ page.name }}</h1>
+    <p class="profile-position">{{ page.position }}</p>
+    <p class="profile-institution">{{ page.institution }}</p>
+  </div>
+</div>
 
 # Your Full Name
 
@@ -88,6 +101,30 @@ You can include any of the following social media and contact fields:
 - `orcid`
 - `researchgate`
 - `googlescholar`
+- `image`: Path to your profile image (see Profile Images section below)
+
+## Profile Images
+
+To add a profile image:
+
+1. **Prepare your image**:
+   - Format: JPG or PNG
+   - Dimensions: 400x400 pixels minimum (square aspect ratio)
+   - Size: Keep under 500KB
+   - Professional headshot with clean background
+
+2. **Add the image file**:
+   - Place your image in `/assets/images/people/`
+   - Name it to match your profile file (e.g., `firstname_lastname.jpg`)
+
+3. **Update your profile**:
+   - Add `image: /assets/images/people/your_filename.jpg` to your front matter
+
+Your image will automatically display:
+- As a circular avatar in the people directory listing
+- As a profile picture on your individual profile page
+
+See `/assets/images/people/README.md` for detailed image guidelines.
 
 ## Guidelines
 

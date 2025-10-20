@@ -12,7 +12,7 @@ theme: minima
 collections:
   people:
     output: true
-    permalink: /people/:path/
+    permalink: /people/:title/
 
 # Navigation
 header_pages:
@@ -27,6 +27,7 @@ exclude:
   - vendor/
   - .bundle/
   - README.md
+  - PROFILE_IMAGES_GUIDE.md
   - _site/
   - .sass-cache/
   - .jekyll-cache/
