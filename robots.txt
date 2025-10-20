@@ -1,0 +1,17 @@
+# robots.txt for phd-advice-hub
+User-agent: *
+Disallow: /_site/
+Disallow: /assets/images/people/
+
+# Allow all other content
+Allow: /
+
+# Block some common bad bots
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot
+Disallow: /
