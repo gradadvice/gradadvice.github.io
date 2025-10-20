@@ -8,7 +8,8 @@ field: Computer Vision and Machine Learning
 email: i.stogiannidis@ed.ac.uk
 twitter: istogiannidis
 linkedin: https://www.linkedin.com/in/stogiannidis/
-image: assets/images/people/ilias_stog.png
+website: https://stogiannidis.github.io/
+image: /assets/images/people/ilias_stog.png
 ---
 
 <div class="profile-header">
@@ -64,4 +65,7 @@ I'm interested in connecting with other researchers working on Computer Vision, 
   <a href="mailto:i.stogiannidis@ed.ac.uk"><i class="fas fa-envelope"></i> i.stogiannidis@ed.ac.uk</a>
   <a href="https://twitter.com/istogiannidis" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> @istogiannidis</a>
   <a href="https://www.linkedin.com/in/stogiannidis/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> linkedin.com/in/stogiannidis</a>
+  {% if page.website %}
+  <a href="{{ page.website }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe"></i> {{ page.website | remove: "https://" | remove: "http://" }}</a>
+  {% endif %}
 </div>
