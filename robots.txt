@@ -1,4 +1,4 @@
-# robots.txt for phd-advice-hub
+# robots.txt for graduate-advice-hub
 User-agent: *
 Disallow: /_site/
 Disallow: /assets/images/people/

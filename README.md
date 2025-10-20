@@ -1,14 +1,14 @@
-# PhD Advice Hub
+# Graduate Advice Hub
 
-A comprehensive directory and advice resource platform for PhD students, built with Jekyll and hosted on GitHub Pages.
+A comprehensive directory and advice resource platform for graduate students, built with Jekyll and hosted on GitHub Pages.
 
 ## 🎓 About
 
-PhD Advice Hub is a community-driven project designed to support PhD students throughout their doctoral journey. The platform provides:
+Graduate Advice Hub is a community-driven project designed to support graduate students throughout their academic journey. The platform provides:
 
-- **Practical Advice**: Guidance on various aspects of PhD life, from choosing an advisor to managing research and balancing work-life commitments
-- **Resource Directory**: Curated collection of tools, websites, books, and materials to help PhD students succeed
-- **Community Knowledge**: Insights and tips from current PhD students and recent graduates
+- **Practical Advice**: Guidance on various aspects of graduate life, from choosing an advisor to managing research and balancing work-life commitments
+- **Resource Directory**: Curated collection of tools, websites, books, and materials to help graduate students succeed
+- **Community Knowledge**: Insights and tips from current graduate students and recent graduates
 
 ## 🚀 Getting Started
 
@@ -21,8 +21,8 @@ PhD Advice Hub is a community-driven project designed to support PhD students th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/stogiannidis/phd-advice-hub.git
-   cd phd-advice-hub
+   git clone https://github.com/stogiannidis/grad-advice-hub.git
+   cd grad-advice-hub
    ```
 
 2. Install dependencies:
@@ -35,7 +35,7 @@ PhD Advice Hub is a community-driven project designed to support PhD students th
    bundle exec jekyll serve
    ```
 
-4. Open your browser and visit `http://localhost:4000/phd-advice-hub/`
+4. Open your browser and visit `http://localhost:4000/grad-advice-hub/`
 
 ### Building for Production
 
@@ -85,7 +85,7 @@ We welcome contributions from the community! Here's how you can help:
 ## 🏗️ Project Structure
 
 ```
-phd-advice-hub/
+grad-advice-hub/
 ├── _advice/              # Advice articles
 ├── _resources/           # Resource pages
 ├── _config.yml           # Jekyll configuration
@@ -108,7 +108,7 @@ This project is open source and available for anyone to use and contribute to.
 
 ## 🤝 Community
 
-- Report bugs or request features by [opening an issue](https://github.com/stogiannidis/phd-advice-hub/issues)
+- Report bugs or request features by [opening an issue](https://github.com/stogiannidis/grad-advice-hub/issues)
 - Join discussions and share ideas
 - Help improve documentation
 
@@ -118,4 +118,4 @@ For questions or suggestions, please open an issue on GitHub.
 
 ---
 
-*Making the PhD journey a little bit easier, one resource at a time.*
+*Making the graduate journey a little bit easier, one resource at a time.*

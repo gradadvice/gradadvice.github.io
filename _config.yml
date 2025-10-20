@@ -1,6 +1,6 @@
-# Jekyll Configuration for PhD Advice Hub
-title: PhD Advice Hub for Greeks
-description: A website that aims to connect prospective and current Greek PhD students with valuable advice, resources, and a community of researchers.
+# Jekyll Configuration for Graduate Advice Hub
+title: Graduate Advice Hub for Greeks
+description: A website that aims to connect prospective and current Greek graduate students with valuable advice, resources, and a community of researchers.
 url: "https://gradadvice.github.io"
 baseurl: ""
 

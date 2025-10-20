@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-# About PhD Advice Hub
+# About Graduate Advice Hub
 
-This hub is a community-driven project connecting prospective Greek MSc and PhD students with compatriots already studying abroad. It's still a work in progress, but our goal is to create a comprehensive directory where students can find peers in their field, seek guidance, and share insights about the postgraduate journey.
+This hub is a community-driven project connecting prospective Greek graduate students with compatriots already studying abroad. It's still a work in progress, but our goal is to create a comprehensive directory where students can find peers in their field, seek guidance, and share insights about the postgraduate journey.
 
 ## Mission
 
 Our mission is to:
-- Connect Greek MSc and PhD students across disciplines and institutions
+- Connect Greek graduate students across disciplines and institutions
 - Provide a platform for sharing advice, experiences, and resources
 - Foster a supportive academic community within the Greek diaspora
 - Help prospective students make informed decisions about studying abroad
@@ -19,12 +19,12 @@ Our mission is to:
 ## How to Add Your Profile
 
 This is an open-source project hosted on GitHub. We welcome profiles from:
-- Current MSc and PhD students studying abroad
+- Current graduate students studying abroad
 - Postdoctoral researchers
 - Any Greek academic willing to share their experience/help
 
 To add your profile:
-1. Visit our [GitHub repository](https://github.com/stogiannidis/phd-advice-hub)
+1. Visit our [GitHub repository](https://github.com/stogiannidis/grad-advice-hub)
 2. Fork the repository
 3. Create a new file in the `_people` directory with your information
 4. Submit a pull request

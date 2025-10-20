@@ -1,6 +1,6 @@
 # Profile Images
 
-This directory contains profile images for people listed in the PhD Advice Hub.
+This directory contains profile images for people listed in the Graduate Advice Hub.
 
 ## Image Guidelines
 
@@ -36,7 +36,7 @@ This directory contains profile images for people listed in the PhD Advice Hub.
 layout: page
 title: Your Name
 name: Your Name
-position: PhD Student (Year X)
+position: Graduate Student (e.g., MSc, PhD Year X)
 institution: Your University
 field: Your Field
 email: your.email@example.com
