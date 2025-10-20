@@ -25,11 +25,7 @@ image: /assets/images/people/ilias_stog.png
 
 ## Bio
 
-My name is Ilias (pronounced "ee-lee-ahs" or "ee-ly-ahs"), and I'm a second-year PhD student at The University of Edinburgh. I'm part of the Vios Science Lab under the guidance of Prof. Sotirios Tsaftaris and Dr. Steven McDonagh.
-
-Before embarking on my PhD, I completed my MSc in Computer Science at Athens University of Economics and Business (AUEB), supervised by Prof. Ion Androutsopoulos. I also worked as an Applied Machine Learning Researcher at helvia.ai, specialising in Natural Language Processing and Large Language Models.
-
-I'm an active member of the NLP Group at AUEB, where we conduct research in NLP and Machine Learning.
+Ilias is a second-year PhD student at The University of Edinburgh, working in the Vios Science Lab under the supervision of Prof. Sotirios Tsaftaris and Dr. Steven McDonagh. Before starting his PhD, he completed his MSc in Computer Science at Athens University of Economics and Business (AUEB) under the supervision of Prof. Ion Androutsopoulos and worked as an Applied Machine Learning Researcher at helvia.ai, specialising in Natural Language Processing and Large Language Models. He remains an active member of the NLP Group at AUEB, where the group conducts research in NLP and Machine Learning.
 
 ## Research Interests
 
